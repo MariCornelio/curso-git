@@ -1,0 +1,98 @@
+commit 4ade7673b9fea8e81d4b65b69d7cd963dd3670ad
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 22:03:25 2022 -0500
+
+    Agregando dos parráfos
+
+commit 3b49f136e7953db246236903fff4df3926afb4b6
+Merge: c467d96 c56be83
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 21:53:06 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y estaciones año y fecha
+
+commit c467d9679cf176591dcb651d8ad9e564108b0074
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 21:04:16 2022 -0500
+
+    Agregando estaciones del año con fecha
+
+commit c56be83abb425848ccd7c5752ac771dd2ba37701
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 21:04:16 2022 -0500
+
+    Agregando estaciones del año
+
+commit 90dc769fda92473164aaef43b758d3713d39a8e7
+Merge: 0b44c77 a1d0e3e
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 19:27:36 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit a1d0e3e3d20f0e79f04476d9301686c808683fb9
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 19:12:09 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 0b44c778d2a9ae96ebc9ff66e25acedf1273c3d0
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 19:00:22 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 9b9c3b87cce16c2b284a9a86e7483820dbe986a7
+Merge: a0cdc5a 7b1c1b9
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 18:27:40 2022 -0500
+
+    Merge branch 'js'
+
+commit 7b1c1b99bfa501cddc843f886bdb1995bb52cf11
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 18:06:00 2022 -0500
+
+    creando index.js
+
+commit a0cdc5a27af38826f94268d5d012489871ce9159
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 17:46:34 2022 -0500
+
+    creando style.css
+
+commit cdfa01a1e1f1e7f8ac00db1ebd533b2d87f1b968
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 17:32:41 2022 -0500
+
+    Creando index.html
+
+commit 25e978d8a1ae48f8177a8a9102d923df2dac21b6
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Wed Nov 23 08:26:41 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 7c2d548c076d936925f0456d3f857ddc22376970
+Author: Katherina Marilu <118775690+MariCornelio@users.noreply.github.com>
+Date:   Tue Nov 22 20:51:27 2022 -0500
+
+    Creando licencia del repositorio
+
+commit 82a0e65a5395ed9ff65c62c55bf9b3c1f8a97409
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Tue Nov 22 19:03:59 2022 -0500
+
+    Agregando mas contenido al README
+
+commit c0a8c419988fda624c4ed1f2dce8535745ac5d48
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Tue Nov 22 18:20:02 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 418a9a6fee68b2dd6c625ac3986665a302584592
+Author: Marilu Cornelio <katherinacornelio@gmail.com>
+Date:   Tue Nov 22 17:53:16 2022 -0500
+
+    Primer commit 😁
