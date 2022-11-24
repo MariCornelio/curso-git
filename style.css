@@ -1,4 +1,18 @@
 html {
   background-color: #000;
-  color: "fff";
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+}
+a:hover {
+  color: orangered;
+}
+
+img {
+  width: 100%;
 }

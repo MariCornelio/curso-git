@@ -1,6 +1,6 @@
 # Curso de _Git_ & _GitHub_
 
-Hola soy Mari, bienvenid@ a este curso.
+Hola soy Mari, este solo es un repositorio de prueba (de práctica)
 
 Agregando mas contenido al _README.md_
 
